@@ -39,6 +39,7 @@ CPA (cost per action) — цена действия, сумма, которую 
 Исходные данные:
 https://drive.google.com/drive/folders/1VWge-QV-RWZIQgEfsQktbdu6-3TKbKHF?usp=sharing
 
+Ссылка на проект: в профиле по названию "Модуль 1. Анализ эффективности бизнес-показателей.pbix"
 
 # Модуль 3. Аналитика маркетинга и продаж
 
@@ -81,6 +82,8 @@ https://drive.google.com/drive/folders/1VWge-QV-RWZIQgEfsQktbdu6-3TKbKHF?usp=sha
 
 Исходные данные: из базы данных
 
+Ссылка на проект: в профиле по названию "Модуль 3. Аналитика маркетинга и продаж.pbix"
+
 # Модуль 4. Отчетность по геоданным или местоположениям
 
 Описание модуля:
@@ -94,6 +97,8 @@ https://drive.google.com/drive/folders/1VWge-QV-RWZIQgEfsQktbdu6-3TKbKHF?usp=sha
 - Сделать возможность переключаться между данными без загромождения отчета.
 
 Исходные данные: открытый источник данных
+
+Ссылка на проект: в профиле по названию "Модуль 4. Отчетность по геоданным или местоположениям.pbix"
 
 # GD-1. Исследование эффективности привлечения новых пользователей в игру
 
@@ -109,6 +114,8 @@ https://drive.google.com/drive/folders/1VWge-QV-RWZIQgEfsQktbdu6-3TKbKHF?usp=sha
 Исходные данные: 
 https://drive.google.com/drive/folders/15bGJLJLvPRQSHNrtr2ybLn7ZjNR_lM8g?usp=sharing
 
+Ссылка на проект: в профиле по названию "GD-1. Исследование эффективности привлечения новых пользователей в игру.pbix"
+
 # GD-2. Сегментация клиентов
 
 Описание: изучить, как различные сегменты пользователей взаимодействуют с игрой
@@ -121,6 +128,7 @@ https://drive.google.com/drive/folders/15bGJLJLvPRQSHNrtr2ybLn7ZjNR_lM8g?usp=sha
 Исходные данные и примененные запросы SQL:
 https://drive.google.com/drive/folders/1OEA2T80pp4h4-XN7YGcVS0xOQSrJau_v?usp=sharing
 
+Ссылка на проект: в профиле по названию "GD-2. Сегментация клиентов.pbix"
 
 # GD-3. Исследование поведения пользователей.
 
